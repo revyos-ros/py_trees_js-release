@@ -2,9 +2,19 @@
 Changelog
 =========
 
-Forthcoming
------------
-* ...
+0.6.6 (2025-01-13)
+------------------
+* [infra] Add dummy test to make buildfarm happy
+* [infra] Fix repo URL in package.xml
+* Contributors: Sebastian Castro
+
+0.6.5 (2025-01-11)
+------------------
+* [formatter] reformat auto-generated resources.py
+* [linter] 2 lines between methods
+* [readme] fix preview instructions, elucidate non-nvidia alternatives
+* [vscode] devcontainer DISPLAY fix
+* Contributors: Daniel Stonier
 
 0.6.4 (2022-02-24)
 ------------------
